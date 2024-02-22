@@ -5,7 +5,7 @@ metadata:
     app: solar-system
   name: solar-system
 spec:
-  replicas: aa
+  replicas: 15
   selector:
     matchLabels:
       app: solar-system
